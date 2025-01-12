@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hekmatullah-amin-713a5b244/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/hekmatullahamin/) [![Email](https://img.shields.io/badge/Email-D14836?logo=yahoo&logoColor=white)](mailto:hekmatullah_asmatullah@yahoo.com) [![Google Developer](https://img.shields.io/badge/Google%20Developer-%234285F4.svg?logo=google&logoColor=white)](https://developers.google.com/profile/u/HekmatullahAmin) [![Portfolio](https://img.shields.io/badge/Portfolio-%231DA1F2.svg?logo=internet-explorer&logoColor=white)](https://hekmatullahamin.github.io/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hekmatullah-amin-713a5b244/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/hekmatullahamin/) [![Email](https://img.shields.io/badge/Email-D14836?logo=yahoo&logoColor=white)](mailto:hekmatullah_asmatullah@yahoo.com) [![Google Developer](https://img.shields.io/badge/Google%20Developer-%234285F4.svg?logo=google&logoColor=white)](https://developers.google.com/profile/u/HekmatullahAmin) [![Portfolio](https://img.shields.io/badge/Portfolio-%231DA1F2.svg?logo=internet-explorer&logoColor=white)](https://hekmatullahamin.github.io/) 
 
 # 💻 Tech Stack:  
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white) 
